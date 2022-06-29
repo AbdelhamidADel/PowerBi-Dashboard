@@ -1,0 +1,828 @@
+﻿TRANSACTION_DATE,TRANSACTION_TYPE,EXPENSE,AMOUNT,CURRENCY
+20.10.2018,credit,lotery app,20,EUR
+20.10.2018,debit,paypal,-20.99,EUR
+19.10.2018,debit,supermarket,-54.58,EUR
+19.10.2018,debit,bar,-10,EUR
+19.10.2018,debit,bar,-78.5,EUR
+16.10.2018,debit,lottery,-50.5,EUR
+16.10.2018,debit,lottery,-1.75,EUR
+16.10.2018,debit,internet,-38.89,EUR
+16.10.2018,debit,lottery,-1.7,EUR
+16.10.2018,debit,online learning,-28.74,EUR
+15.10.2018,debit,paypal,-220.08,EUR
+14.10.2018,debit,gas station,-44.67,EUR
+13.10.2018,credit,lottery,0.01,EUR
+13.10.2018,debit,netflix,-11.69,EUR
+12.10.2018,debit,supermarket,-76.94,EUR
+12.10.2018,transfer,money transfer,-8,EUR
+12.10.2018,debit,paypal,-12.99,EUR
+12.10.2018,debit,paypal,-24.99,EUR
+09.10.2018,Cash Deposit/Withdrawal,cash withdrawal,-100,EUR
+08.10.2018,debit,supermarket,-6.94,EUR
+07.10.2018,debit,gas station,-44.79,EUR
+05.10.2018,transfer,money transfer,-20,EUR
+05.10.2018,debit,supermarket,-45.28,EUR
+05.10.2018,debit,bar,-6,EUR
+05.10.2018,debit,paypal,-16.94,EUR
+02.10.2018,transfer,rent,-1490,EUR
+02.10.2018,debit,health insurance,-45,EUR
+02.10.2018,debit,health insurance,-390,EUR
+02.10.2018,debit,paypal,-20.68,EUR
+01.10.2018,debit,gas station,-47.94,EUR
+01.10.2018,debit,loan,-350.56,EUR
+01.10.2018,debit,taxes,-52.5,EUR
+01.10.2018,debit,paypal,-1.99,EUR
+01.10.2018,debit,public transportation ,-87.2,EUR
+01.10.2018,debit,gas station,-27.05,EUR
+01.10.2018,debit,gas,-59,EUR
+01.10.2018,debit,gym,-15,EUR
+01.10.2018,debit,car rate,-350,EUR
+01.10.2018,debit,loan,-205.52,EUR
+01.10.2018,debit,electricity,-44,EUR
+30.09.2018,interest/charges,interest,-48.67,EUR
+30.09.2018,interest/charges,interest,-0.8,EUR
+30.09.2018,debit,paypal,-4.49,EUR
+29.09.2018,credit,bonus,607.88,EUR
+29.09.2018,credit,income,2870.44,EUR
+29.09.2018,debit,paypal,-8.74,EUR
+29.09.2018,debit,spotify,-9.74,EUR
+29.09.2018,debit,paypal,-22.04,EUR
+28.09.2018,debit,supermarket,-52.71,EUR
+28.09.2018,transfer,money transfer,-8,EUR
+28.09.2018,debit,supermarket,-69.52,EUR
+28.09.2018,debit,paypal,-9.99,EUR
+28.09.2018,debit,telephone,-35.75,EUR
+28.09.2018,debit,credit card,-1045.19,EUR
+24.09.2018,debit,gas station,-48.17,EUR
+23.09.2018,debit,paypal,-119.98,EUR
+22.09.2018,debit,takeaway food,-20.99,EUR
+22.09.2018,debit,paypal,-1.8,EUR
+22.09.2018,debit,paypal,-1.8,EUR
+21.09.2018,Cash Deposit/Withdrawal,cash withdrawal,-50,EUR
+21.09.2018,debit,coffee,-18,EUR
+21.09.2018,debit,gas station,-36.86,EUR
+21.09.2018,transfer,money transfer,-22.17,EUR
+18.09.2018,debit,gas station,-44.86,EUR
+18.09.2018,debit,coffee,-6.85,BRL
+18.09.2018,debit,coffee,-5,BRL
+18.09.2018,debit,paypal,-20.99,EUR
+17.09.2018,transfer,money transfer,-20.14,BRL
+16.09.2018,transfer,fine,-25,BRL
+16.09.2018,debit,gas station,-54.15,BRL
+16.09.2018,debit,online learning,-28.74,EUR
+15.09.2018,debit,paypal,-22.93,EUR
+15.09.2018,debit,internet,-38.89,EUR
+15.09.2018,debit,takeaway food,-20.8,BRL
+15.09.2018,debit,takeaway food,-14.99,BRL
+11.09.2018,transfer,money transfer,-15,BRL
+11.09.2018,debit,netflix,-11.69,EUR
+10.09.2018,debit,paypal,-12.99,EUR
+10.09.2018,debit,paypal,-24.99,EUR
+09.09.2018,debit,gas station,-53.67,BRL
+08.09.2018,debit,paypal,-47.44,EUR
+07.09.2018,debit,money withdrawal,-150.97,EUR
+07.09.2018,credit,money transfer,189.43,EUR
+07.09.2018,debit,takeaway food,-18,EUR
+03.09.2018,debit,paypal,-16.66,EUR
+02.09.2018,debit,gas station,-54.27,EUR
+02.09.2018,debit,car insurance,-674.65,EUR
+01.09.2018,debit,parking,-8.8,EUR
+01.09.2018,debit,paypal,-4.43,EUR
+01.09.2018,debit,loan,-149.1,EUR
+01.09.2018,debit,takeaway food,-14.99,EUR
+01.09.2018,debit,gas station,-27.05,EUR
+01.09.2018,debit,health insurance,-390,EUR
+01.09.2018,debit,gym,-15,EUR
+01.09.2018,debit,gas,-59,EUR
+01.09.2018,debit,health insurance,-45,EUR
+01.09.2018,debit,paypal,-1.99,EUR
+01.09.2018,debit,loan,-350.56,EUR
+01.09.2018,debit,takeaway food,-19.2,EUR
+01.09.2018,debit,paypal,-21.04,EUR
+01.09.2018,debit,public transportation ,-87.2,EUR
+01.09.2018,debit,car rate,-350,EUR
+01.09.2018,debit,electricity,-44,EUR
+31.08.2018,interest/charges,interest,-0.8,EUR
+31.08.2018,transfer,rent,-1490,EUR
+31.08.2018,debit,paypal,-50,EUR
+31.08.2018,debit,credit card,-443.3,EUR
+31.08.2018,debit,takeaway food,-14.49,EUR
+28.08.2018,credit,income,7858.38,EUR
+28.08.2018,debit,spotify,-9.74,EUR
+28.08.2018,debit,paypal,-22.04,EUR
+27.08.2018,debit,telephone,-115.74,EUR
+26.08.2018,credit,tax return,2545,EUR
+26.08.2018,Cash Deposit/Withdrawal,cash withdrawal,-40,EUR
+26.08.2018,debit,gas station,-39.97,EUR
+26.08.2018,transfer,money transfer,-11.2,EUR
+26.08.2018,debit,paypal,-9.99,EUR
+26.08.2018,debit,paypal,-83.4,EUR
+25.08.2018,debit,takeaway food,-22,EUR
+25.08.2018,debit,takeaway food,-14.99,EUR
+25.08.2018,debit,takeaway food,-15.99,EUR
+21.08.2018,credit,bonus,528,EUR
+21.08.2018,debit,takeaway food,-11,EUR
+20.08.2018,Cash Deposit/Withdrawal,cash withdrawal,-75,EUR
+20.08.2018,debit,gas station,-55.31,EUR
+20.08.2018,debit,paypal,-4.49,EUR
+20.08.2018,debit,paypal,-15.99,EUR
+20.08.2018,debit,paypal,-6.24,EUR
+20.08.2018,debit,paypal,-21.99,EUR
+20.08.2018,debit,paypal,-23.09,EUR
+19.08.2018,transfer,money transfer,-13,EUR
+18.08.2018,debit,internet,-38.89,EUR
+18.08.2018,debit,online learning,-28.74,EUR
+18.08.2018,debit,takeaway food,-26.3,EUR
+18.08.2018,debit,paypal,-20.99,EUR
+13.08.2018,debit,paypal,-129,EUR
+12.08.2018,debit,paypal,-23.99,EUR
+11.08.2018,debit,paypal,-24.99,EUR
+11.08.2018,debit,takeaway food,-22.5,EUR
+11.08.2018,debit,netflix,-11.69,EUR
+11.08.2018,debit,takeaway food,-15.05,EUR
+11.08.2018,debit,paypal,-12.99,EUR
+11.08.2018,debit,takeaway food,-26.3,EUR
+10.08.2018,debit,gas station,-53.73,EUR
+10.08.2018,debit,restaurant,-11.4,EUR
+10.08.2018,Cash Deposit/Withdrawal,cash withdrawal,-45,EUR
+10.08.2018,debit,takeaway food,-19.49,EUR
+07.08.2018,debit,gas station,-8.99,EUR
+06.08.2018,debit,paypal,-39.56,EUR
+06.08.2018,debit,restaurant,-34.99,EUR
+06.08.2018,transfer,money transfer,-8,EUR
+05.08.2018,debit,gas station,-50.35,EUR
+05.08.2018,debit,takeaway food,-11.7,EUR
+04.08.2018,debit,gas station,-8.99,EUR
+04.08.2018,debit,paypal,-2.33,EUR
+04.08.2018,debit,takeaway food,-14.48,EUR
+04.08.2018,debit,paypal,-16.83,EUR
+04.08.2018,debit,takeaway food,-22.08,EUR
+04.08.2018,debit,takeaway food,-19.49,EUR
+03.08.2018,transfer,money transfer,-50,EUR
+03.08.2018,debit,gas station,-10.07,EUR
+03.08.2018,transfer,rent,-1490,EUR
+03.08.2018,interest/charges,interest,0,EUR
+03.08.2018,debit,health insurance,-45,EUR
+03.08.2018,debit,loan,-149.1,EUR
+03.08.2018,debit,electricity,-44,EUR
+03.08.2018,debit,public transportation ,-87.2,EUR
+03.08.2018,debit,takeaway food,-11,EUR
+03.08.2018,debit,gas station,-27.05,EUR
+03.08.2018,debit,gas,-59,EUR
+03.08.2018,debit,health insurance,-390,EUR
+03.08.2018,debit,car rate,-350,EUR
+03.08.2018,debit,gym,-15,EUR
+03.08.2018,debit,paypal,-20.81,EUR
+03.08.2018,debit,loan,-350.56,EUR
+03.08.2018,debit,paypal,-20,EUR
+03.08.2018,debit,car insurance,-158.35,EUR
+31.07.2018,interest/charges,interest,-0.8,EUR
+31.07.2018,transfer,money transfer,-11,EUR
+31.07.2018,debit,gas station,-51.52,EUR
+31.07.2018,debit,credit card,-190.85,EUR
+31.07.2018,debit,paypal,-1.99,EUR
+30.07.2018,credit,income,5833.23,EUR
+30.07.2018,debit,paypal,-4.48,EUR
+29.07.2018,debit,electronics store,-77,EUR
+29.07.2018,credit,money transfer,20,EUR
+29.07.2018,debit,takeaway food,-14.23,EUR
+28.07.2018,debit,gas station,-39.52,EUR
+28.07.2018,debit,takeaway food,-22.26,EUR
+28.07.2018,debit,paypal,-22.04,EUR
+28.07.2018,debit,spotify,-9.74,EUR
+28.07.2018,debit,paypal,-9.99,EUR
+28.07.2018,debit,telephone,-114.07,EUR
+28.07.2018,debit,paypal,-10.64,EUR
+28.07.2018,debit,takeaway food,-26.3,EUR
+27.07.2018,debit,supermarket,-24.82,EUR
+27.07.2018,debit,supermarket,-34.34,EUR
+24.07.2018,debit,gas station,-50.67,EUR
+24.07.2018,debit,takeaway food,-13.15,EUR
+23.07.2018,debit,gas station,-8.99,EUR
+23.07.2018,debit,takeaway food,-14.4,EUR
+22.07.2018,Cash Deposit/Withdrawal,cash withdrawal,-300,EUR
+22.07.2018,debit,gas station,-4.98,EUR
+21.07.2018,debit,takeaway food,-17.2,EUR
+21.07.2018,debit,takeaway food,-16.04,EUR
+21.07.2018,debit,gas,-1.93,EUR
+16.07.2018,debit,gas station,-38.46,EUR
+16.07.2018,debit,takeaway food,-18.2,EUR
+16.07.2018,debit,online learning,-28.74,EUR
+15.07.2018,debit,internet,-39.9,EUR
+14.07.2018,Cash Deposit/Withdrawal,cash withdrawal,-70,EUR
+14.07.2018,debit,coffee,-4.99,EUR
+14.07.2018,debit,gas station,-49.11,EUR
+14.07.2018,debit,gas station,-4.99,EUR
+14.07.2018,debit,paypal,-1.8,EUR
+14.07.2018,debit,takeaway food,-22.5,EUR
+14.07.2018,debit,takeaway food,-29.29,EUR
+14.07.2018,debit,takeaway food,-18.49,EUR
+14.07.2018,debit,paypal,-1.8,EUR
+13.07.2018,debit,gas station,-5.78,EUR
+13.07.2018,debit,netflix,-11.69,EUR
+10.07.2018,debit,gas station,-10.26,EUR
+10.07.2018,credit,money transfer,106,EUR
+10.07.2018,debit,paypal,-24.99,EUR
+10.07.2018,debit,takeaway food,-25.3,EUR
+09.07.2018,debit,gas station,-46.29,EUR
+08.07.2018,debit,gas station,-4.98,EUR
+08.07.2018,transfer,money transfer,-8,EUR
+07.07.2018,debit,gas station,-56.05,EUR
+07.07.2018,debit,paypal,-20.99,EUR
+07.07.2018,debit,paypal,-1,EUR
+07.07.2018,debit,paypal,-20,EUR
+07.07.2018,debit,takeaway food,-14.99,EUR
+07.07.2018,debit,takeaway food,-18,EUR
+06.07.2018,debit,coffee,-6,EUR
+03.07.2018,Cash Deposit/Withdrawal,cash withdrawal,-80,EUR
+03.07.2018,debit,gas station,-6.58,EUR
+03.07.2018,credit,bonus,1053.38,EUR
+03.07.2018,debit,paypal,-17.69,EUR
+02.07.2018,debit,paypal,-20.7,EUR
+02.07.2018,debit,takeaway food,-34.3,EUR
+01.07.2018,transfer,rent,-1490,EUR
+01.07.2018,credit,income,7828.03,EUR
+01.07.2018,debit,gas station,-49.68,EUR
+01.07.2018,debit,health insurance,-390,EUR
+01.07.2018,debit,loan,-149.1,EUR
+01.07.2018,debit,paypal,-1.99,EUR
+01.07.2018,debit,public transportation ,-87.2,EUR
+01.07.2018,debit,car insurance,-158.35,EUR
+01.07.2018,debit,gym,-15,EUR
+01.07.2018,debit,electricity,-44,EUR
+01.07.2018,debit,takeaway food,-35.9,EUR
+01.07.2018,debit,car rate,-350,EUR
+01.07.2018,debit,gas station,-27.05,EUR
+01.07.2018,debit,health insurance,-45,EUR
+01.07.2018,debit,taxes,-52.5,EUR
+01.07.2018,debit,loan,-350.56,EUR
+30.06.2018,interest/charges,interest,-48.95,EUR
+30.06.2018,interest/charges,interest,-10.7,EUR
+30.06.2018,debit,takeaway food,-20.1,EUR
+30.06.2018,debit,takeaway food,-17.34,EUR
+30.06.2018,debit,paypal,-22.61,EUR
+30.06.2018,debit,paypal,-4.65,EUR
+30.06.2018,debit,spotify,-9.99,EUR
+29.06.2018,debit,credit card,-837.1,EUR
+29.06.2018,debit,takeaway food,-15.5,EUR
+26.06.2018,debit,gas station,-57.75,EUR
+26.06.2018,debit,electricity,-60.65,EUR
+26.06.2018,debit,telephone,-137.96,EUR
+26.06.2018,debit,paypal,-9.99,EUR
+25.06.2018,debit,supermarket,-12.45,EUR
+24.06.2018,debit,restaurant,-89.12,EUR
+24.06.2018,debit,supermarket,-39.12,EUR
+24.06.2018,debit,gas station,-5.99,EUR
+24.06.2018,debit,gas station,-6.99,EUR
+23.06.2018,debit,gas station,-51.04,EUR
+23.06.2018,debit,takeaway food,-20.68,EUR
+23.06.2018,debit,takeaway food,-26.3,EUR
+22.06.2018,debit,gas station,-8.28,EUR
+22.06.2018,debit,internet,-39.9,EUR
+19.06.2018,debit,drugstore,-55.11,EUR
+19.06.2018,debit,gas station,-51.38,EUR
+19.06.2018,debit,takeaway food,-14.5,EUR
+17.06.2018,debit,gas station,-4.98,EUR
+17.06.2018,transfer,taxes,-157.1,EUR
+16.06.2018,debit,gas station,-52.64,EUR
+16.06.2018,debit,takeaway food,-14.99,EUR
+16.06.2018,debit,takeaway food,-19.3,EUR
+16.06.2018,debit,online learning,-29.49,EUR
+15.06.2018,debit,supermarket,-40.45,EUR
+15.06.2018,debit,takeaway food,-16.25,EUR
+12.06.2018,debit,netflix,-11.99,EUR
+11.06.2018,debit,paypal,-9.99,EUR
+10.06.2018,debit,money withdrawal,-140.8,EUR
+10.06.2018,transfer,money transfer,-11.73,EUR
+10.06.2018,debit,paypal,-24.99,EUR
+09.06.2018,debit,gas station,-39.15,EUR
+08.06.2018,Cash Deposit/Withdrawal,cash withdrawal,-80,EUR
+08.06.2018,debit,gas station,-33.27,EUR
+08.06.2018,debit,supermarket,-2.89,EUR
+08.06.2018,debit,paypal,-37.6,EUR
+08.06.2018,credit,money transfer,30,EUR
+04.06.2018,transfer,rent,-1490,EUR
+03.06.2018,debit,gas station,-43.64,EUR
+03.06.2018,debit,car rate,-350,EUR
+03.06.2018,debit,paypal,-17.88,EUR
+03.06.2018,debit,gym,-15,EUR
+02.06.2018,debit,car insurance,-158.35,EUR
+02.06.2018,debit,gas,-58,EUR
+02.06.2018,debit,gas station,-27.05,EUR
+02.06.2018,debit,loan,-149.1,EUR
+02.06.2018,debit,health insurance,-390,EUR
+02.06.2018,debit,loan,-350.56,EUR
+02.06.2018,debit,health insurance,-45,EUR
+02.06.2018,debit,public transportation ,-87.2,EUR
+02.06.2018,debit,paypal,-47.04,EUR
+02.06.2018,debit,paypal,-1.99,EUR
+02.06.2018,debit,paypal,-20.98,EUR
+01.06.2018,debit,electricity,-40,EUR
+01.06.2018,debit,paypal,-4.76,EUR
+29.05.2018,debit,gas station,-41.54,USD
+29.05.2018,Cash Deposit/Withdrawal,cash withdrawal,-80,EUR
+29.05.2018,debit,credit card,-1228.75,USD
+29.05.2018,debit,paypal,-22.61,EUR
+28.05.2018,debit,telephone,-57.04,EUR
+28.05.2018,debit,spotify,-9.99,EUR
+28.05.2018,debit,paypal,-51.99,EUR
+27.05.2018,debit,gas station,-40.34,USD
+27.05.2018,debit,takeaway food,-25.57,USD
+27.05.2018,debit,takeaway food,-26.5,USD
+27.05.2018,debit,paypal,-54.25,EUR
+26.05.2018,credit,income,5828.03,EUR
+26.05.2018,debit,paypal,-79,EUR
+26.05.2018,debit,paypal,-28.66,EUR
+26.05.2018,debit,paypal,-9.99,EUR
+25.05.2018,debit,supermarket,-5.06,USD
+18.05.2018,Cash Deposit/Withdrawal,cash withdrawal,-80,USD
+18.05.2018,debit,gas station,-19,USD
+18.05.2018,debit,takeaway food,-15.5,EUR
+18.05.2018,debit,online learning,-29.49,EUR
+18.05.2018,debit,takeaway food,-25.47,EUR
+18.05.2018,debit,internet,-39.9,EUR
+15.05.2018,debit,takeaway food,-32.7,EUR
+14.05.2018,debit,takeaway food,-12.5,EUR
+13.05.2018,transfer,money transfer,-40,EUR
+13.05.2018,debit,gas station,-42.23,EUR
+12.05.2018,debit,takeaway food,-22.65,EUR
+12.05.2018,debit,online learning,-369,EUR
+12.05.2018,debit,netflix,-11.99,EUR
+12.05.2018,debit,takeaway food,-23.3,EUR
+12.05.2018,debit,paypal,-9.99,EUR
+12.05.2018,debit,paypal,-24.99,EUR
+12.05.2018,debit,takeaway food,-29.29,EUR
+11.05.2018,debit,takeaway food,-20.95,EUR
+11.05.2018,debit,takeaway food,-16.5,EUR
+06.05.2018,debit,takeaway food,-23.3,EUR
+05.05.2018,debit,gas station,-34.45,EUR
+05.05.2018,debit,paypal,-18.27,EUR
+05.05.2018,debit,gym,-15,EUR
+05.05.2018,debit,car rate,-350,EUR
+05.05.2018,debit,takeaway food,-27.2,EUR
+05.05.2018,debit,takeaway food,-19.55,EUR
+05.05.2018,debit,takeaway food,-23.92,EUR
+05.05.2018,debit,takeaway food,-20.1,EUR
+05.05.2018,debit,paypal,-20.99,EUR
+05.05.2018,debit,paypal,-21.63,EUR
+04.05.2018,transfer,rent,-1490,EUR
+04.05.2018,debit,paypal,-1.99,EUR
+04.05.2018,debit,credit card,-72.24,EUR
+04.05.2018,debit,car insurance,-158.35,EUR
+04.05.2018,debit,gas,-58,EUR
+04.05.2018,debit,health insurance,-45,EUR
+04.05.2018,debit,loan,-149.1,EUR
+04.05.2018,debit,health insurance,-390,EUR
+04.05.2018,debit,gas station,-27.05,EUR
+04.05.2018,debit,electricity,-40,EUR
+04.05.2018,debit,loan,-350.56,EUR
+04.05.2018,debit,public transportation ,-87.2,EUR
+30.04.2018,interest/charges,interest,-0.8,EUR
+30.04.2018,debit,paypal,-4.82,EUR
+29.04.2018,debit,paypal,-22.61,EUR
+28.04.2018,debit,telephone,-70.8,EUR
+28.04.2018,debit,takeaway food,-14.3,EUR
+28.04.2018,debit,takeaway food,-15.2,EUR
+28.04.2018,debit,spotify,-9.99,EUR
+28.04.2018,debit,takeaway food,-19.5,EUR
+28.04.2018,debit,paypal,-9.99,EUR
+27.04.2018,interest/charges,interest,0,EUR
+27.04.2018,debit,takeaway food,-16.1,EUR
+27.04.2018,debit,takeaway food,-37,EUR
+27.04.2018,debit,telephone,-1,EUR
+24.04.2018,credit,income,7608.5,EUR
+23.04.2018,debit,internet,-39.9,EUR
+22.04.2018,debit,gas station,-33.38,EUR
+21.04.2018,debit,paypal,-22.91,EUR
+21.04.2018,debit,online learning,-44,EUR
+21.04.2018,debit,online learning,-35,EUR
+17.04.2018,debit,telephone,-1,EUR
+16.04.2018,debit,online learning,-29.49,EUR
+15.04.2018,debit,paypal,-31.49,EUR
+15.04.2018,debit,paypal,-32.49,EUR
+15.04.2018,debit,paypal,-20.81,EUR
+15.04.2018,debit,netflix,-11.99,EUR
+15.04.2018,debit,takeaway food,-14.3,EUR
+15.04.2018,debit,paypal,-9.99,EUR
+15.04.2018,debit,paypal,-79.99,EUR
+15.04.2018,debit,takeaway food,-15.2,EUR
+14.04.2018,debit,gas station,-18.54,EUR
+14.04.2018,debit,supermarket,-57.61,EUR
+14.04.2018,debit,paypal,-24.99,EUR
+09.04.2018,debit,takeaway food,-22.7,EUR
+09.04.2018,debit,paypal,-50,EUR
+08.04.2018,debit,paypal,-5.49,EUR
+08.04.2018,debit,takeaway food,-33.2,EUR
+07.04.2018,debit,takeaway food,-27.2,EUR
+06.04.2018,debit,money withdrawal,-125.14,EUR
+06.04.2018,transfer,rent,-1490,EUR
+06.04.2018,debit,paypal,-5.49,EUR
+03.04.2018,debit,paypal,-18.12,EUR
+03.04.2018,debit,paypal,-69,EUR
+01.04.2018,debit,supermarket,-57.16,EUR
+01.04.2018,debit,paypal,-21.26,EUR
+01.04.2018,debit,gas,-58,EUR
+01.04.2018,debit,health insurance,-45,EUR
+01.04.2018,debit,car insurance,-158.35,EUR
+01.04.2018,debit,health insurance,-390,EUR
+01.04.2018,debit,loan,-350.56,EUR
+01.04.2018,debit,gym,-15,EUR
+01.04.2018,debit,takeaway food,-24.87,EUR
+01.04.2018,debit,loan,-149.1,EUR
+01.04.2018,debit,gas station,-27.05,EUR
+01.04.2018,debit,takeaway food,-22.7,EUR
+01.04.2018,debit,taxes,-52.5,EUR
+01.04.2018,debit,electricity,-40,EUR
+01.04.2018,debit,public transportation ,-87.2,EUR
+01.04.2018,debit,car rate,-350,EUR
+31.03.2018,interest/charges,interest,-33.72,EUR
+31.03.2018,interest/charges,interest,-0.8,EUR
+31.03.2018,debit,paypal,-22.61,EUR
+31.03.2018,debit,paypal,-1.99,EUR
+31.03.2018,debit,takeaway food,-22.7,EUR
+30.03.2018,debit,credit card,-678.46,EUR
+30.03.2018,debit,takeaway food,-27,EUR
+30.03.2018,debit,spotify,-9.99,EUR
+27.03.2018,debit,telephone,-99.98,EUR
+26.03.2018,credit,income,6390.87,EUR
+26.03.2018,debit,paypal,-9.99,EUR
+26.03.2018,debit,takeaway food,-22.7,EUR
+25.03.2018,debit,takeaway food,-23.4,EUR
+24.03.2018,debit,takeaway food,-23.18,EUR
+24.03.2018,debit,takeaway food,-21.2,EUR
+23.03.2018,debit,supermarket,-73.68,EUR
+23.03.2018,debit,takeaway food,-20.5,EUR
+23.03.2018,debit,takeaway food,-24.5,EUR
+23.03.2018,debit,online learning,-35,EUR
+19.03.2018,debit,fine,-34,EUR
+18.03.2018,debit,gas station,-50.54,EUR
+18.03.2018,debit,paypal,-50,EUR
+18.03.2018,debit,takeaway food,-22.18,EUR
+17.03.2018,debit,takeaway food,-17.49,EUR
+17.03.2018,debit,takeaway food,-20.9,EUR
+17.03.2018,debit,paypal,-1.8,EUR
+17.03.2018,debit,online learning,-29.49,EUR
+16.03.2018,debit,internet,-39.9,EUR
+13.03.2018,debit,coffee,-7.48,EUR
+13.03.2018,Cash Deposit/Withdrawal,cash withdrawal,-700,EUR
+13.03.2018,debit,mcdonalds,-8.99,EUR
+13.03.2018,debit,gas station,-55.93,EUR
+13.03.2018,debit,takeaway food,-14.5,EUR
+12.03.2018,debit,paypal,-40,EUR
+11.03.2018,debit,mcdonalds,-13.78,EUR
+11.03.2018,debit,supermarket,-31.48,EUR
+11.03.2018,debit,coffee,-6,EUR
+11.03.2018,debit,netflix,-11.99,EUR
+10.03.2018,debit,gas station,-42.48,EUR
+10.03.2018,debit,takeaway food,-20.5,EUR
+10.03.2018,debit,paypal,-24.99,EUR
+10.03.2018,debit,takeaway food,-22.31,EUR
+10.03.2018,debit,paypal,-9.99,EUR
+09.03.2018,debit,supermarket,-44.71,EUR
+09.03.2018,debit,electronics store,-139.94,EUR
+06.03.2018,debit,gas station,-52.31,EUR
+06.03.2018,debit,paypal,-112.49,EUR
+05.03.2018,transfer,rent,-1490,EUR
+04.03.2018,debit,gas station,-4.78,EUR
+04.03.2018,debit,car insurance,-158.35,EUR
+03.03.2018,debit,mcdonalds,-8.99,EUR
+03.03.2018,debit,gas station,-39.81,EUR
+03.03.2018,debit,paypal,-18.07,EUR
+03.03.2018,debit,paypal,-1.99,EUR
+03.03.2018,debit,takeaway food,-14.5,EUR
+03.03.2018,debit,paypal,-22.11,EUR
+03.03.2018,debit,takeaway food,-20.55,EUR
+03.03.2018,debit,takeaway food,-14.99,EUR
+02.03.2018,debit,gas station,-2.99,EUR
+02.03.2018,debit,supermarket,-67.48,EUR
+02.03.2018,debit,credit card,-494.64,EUR
+02.03.2018,debit,gas station,-27.05,EUR
+02.03.2018,debit,health insurance,-390,EUR
+02.03.2018,debit,loan,-350.56,EUR
+02.03.2018,debit,public transportation ,-87.2,EUR
+02.03.2018,debit,car rate,-350,EUR
+02.03.2018,debit,gym,-15,EUR
+02.03.2018,debit,electricity,-40,EUR
+02.03.2018,debit,health insurance,-45,EUR
+02.03.2018,debit,takeaway food,-18.49,EUR
+02.03.2018,debit,paypal,-22.61,EUR
+02.03.2018,debit,loan,-149.1,EUR
+02.03.2018,debit,gas,-58,EUR
+28.02.2018,interest/charges,interest,-0.8,EUR
+28.02.2018,debit,gas station,-52.38,EUR
+28.02.2018,debit,spotify,-9.99,EUR
+28.02.2018,debit,telephone,-100.06,EUR
+27.02.2018,debit,mcdonalds,-8.99,EUR
+27.02.2018,debit,takeaway food,-21.4,EUR
+26.02.2018,credit,income,6390.87,EUR
+25.02.2018,debit,supermarket,-1.94,EUR
+25.02.2018,debit,gas station,-36.32,EUR
+25.02.2018,debit,takeaway food,-23.3,EUR
+25.02.2018,debit,takeaway food,-14.5,EUR
+25.02.2018,debit,takeaway food,-11,EUR
+24.02.2018,debit,supermarket,-23.36,EUR
+24.02.2018,debit,damages insurance,-59.34,EUR
+21.02.2018,debit,mcdonalds,-8.99,EUR
+21.02.2018,debit,gas station,-49.09,EUR
+21.02.2018,debit,paypal,-55.83,EUR
+21.02.2018,debit,paypal,-100,EUR
+20.02.2018,Cash Deposit/Withdrawal,cash withdrawal,-30,EUR
+20.02.2018,debit,paypal,-1.8,EUR
+20.02.2018,debit,paypal,-1.8,EUR
+18.02.2018,debit,gas station,-57.22,EUR
+18.02.2018,debit,takeaway food,-22.4,EUR
+18.02.2018,debit,takeaway food,-22.9,EUR
+18.02.2018,debit,online learning,-29.49,EUR
+18.02.2018,debit,takeaway food,-18.99,EUR
+17.02.2018,debit,takeaway food,-14.5,EUR
+17.02.2018,debit,internet,-39.9,EUR
+14.02.2018,debit,coffee,-10,EUR
+14.02.2018,debit,coffee,-6,EUR
+14.02.2018,transfer,rent,-1490,EUR
+13.02.2018,debit,gas station,-52.05,EUR
+13.02.2018,debit,paypal,-40,EUR
+13.02.2018,debit,takeaway food,-19.49,EUR
+12.02.2018,credit,money transfer,25,EUR
+12.02.2018,debit,takeaway food,-20.46,EUR
+11.02.2018,debit,takeaway food,-18.8,EUR
+11.02.2018,debit,paypal,-24.99,EUR
+11.02.2018,debit,takeaway food,-14.5,EUR
+11.02.2018,debit,takeaway food,-10.4,EUR
+11.02.2018,debit,bar,-289.9,EUR
+11.02.2018,debit,takeaway food,-19.49,EUR
+11.02.2018,debit,takeaway food,-18.99,EUR
+11.02.2018,debit,netflix,-11.99,EUR
+11.02.2018,debit,paypal,-9.99,EUR
+10.02.2018,debit,mcdonalds,-8.49,EUR
+10.02.2018,debit,supermarket,-11.87,EUR
+07.02.2018,debit,gas station,-56.34,EUR
+07.02.2018,debit,takeaway food,-21.4,EUR
+06.02.2018,debit,paypal,-10,EUR
+06.02.2018,debit,paypal,-72.62,EUR
+05.02.2018,debit,mcdonalds,-8.99,EUR
+04.02.2018,debit,gas station,-42.14,EUR
+04.02.2018,debit,paypal,-17.97,EUR
+04.02.2018,debit,takeaway food,-14.5,EUR
+04.02.2018,debit,takeaway food,-23.99,EUR
+04.02.2018,debit,car insurance,-158.35,EUR
+03.02.2018,debit,public transportation ,-87.2,EUR
+03.02.2018,debit,car rate,-350,EUR
+03.02.2018,debit,health insurance,-45,EUR
+03.02.2018,debit,health insurance,-390,EUR
+03.02.2018,debit,gym,-15,EUR
+03.02.2018,debit,gas station,-27.05,EUR
+03.02.2018,debit,paypal,-22.21,EUR
+03.02.2018,debit,gas,-58,EUR
+03.02.2018,debit,electricity,-40,EUR
+03.02.2018,debit,loan,-149.1,EUR
+03.02.2018,debit,loan,-350.56,EUR
+31.01.2018,interest/charges,interest,-0.8,EUR
+31.01.2018,debit,electronics store,-417.95,EUR
+31.01.2018,debit,gas station,-57.08,EUR
+31.01.2018,debit,paypal,-1.99,EUR
+31.01.2018,debit,credit card,-46.03,EUR
+31.01.2018,debit,paypal,-100,EUR
+30.01.2018,debit,paypal,-1.8,EUR
+29.01.2018,debit,paypal,-30.46,EUR
+29.01.2018,debit,paypal,-22.61,EUR
+29.01.2018,debit,paypal,-6.66,EUR
+28.01.2018,debit,gas station,-52.73,EUR
+28.01.2018,debit,spotify,-9.99,EUR
+28.01.2018,debit,paypal,-223.51,EUR
+28.01.2018,debit,telephone,-99.98,EUR
+28.01.2018,debit,takeaway food,-14.5,EUR
+28.01.2018,debit,takeaway food,-21.2,EUR
+28.01.2018,debit,takeaway food,-19.49,EUR
+27.01.2018,credit,income,6390.87,EUR
+27.01.2018,debit,takeaway food,-14.99,EUR
+24.01.2018,debit,takeaway food,-22.9,EUR
+23.01.2018,debit,gas station,-55.73,EUR
+23.01.2018,debit,online learning,-71,EUR
+22.01.2018,debit,takeaway food,-18.57,EUR
+21.01.2018,debit,takeaway food,-14.5,EUR
+21.01.2018,debit,takeaway food,-14.99,EUR
+21.01.2018,debit,takeaway food,-10.54,EUR
+20.01.2018,debit,gas station,-54.89,EUR
+17.01.2018,debit,takeaway food,-22.9,EUR
+16.01.2018,debit,online learning,-29.49,EUR
+15.01.2018,debit,gas station,-42.16,EUR
+15.01.2018,debit,internet,-39.9,EUR
+14.01.2018,debit,takeaway food,-20.08,EUR
+14.01.2018,debit,takeaway food,-11,EUR
+14.01.2018,interest/charges,interest,0,EUR
+14.01.2018,interest/charges,interest,0,EUR
+13.01.2018,debit,gas station,-28.11,EUR
+13.01.2018,debit,paypal,-9.99,EUR
+13.01.2018,debit,netflix,-11.99,EUR
+10.01.2018,debit,takeaway food,-11,EUR
+09.01.2018,debit,car maintenance,-483.2,EUR
+09.01.2018,debit,bar,-20.01,EUR
+09.01.2018,debit,takeaway food,-14.99,EUR
+08.01.2018,debit,gas,-58,EUR
+07.01.2018,debit,parking,-8.8,EUR
+07.01.2018,Cash Deposit/Withdrawal,cash withdrawal,-300,EUR
+07.01.2018,debit,gas station,-50.77,EUR
+07.01.2018,debit,health insurance,-390,EUR
+07.01.2018,debit,takeaway food,-15.88,EUR
+07.01.2018,debit,health insurance,-45,EUR
+07.01.2018,debit,paypal,-60.43,EUR
+06.01.2018,debit,money withdrawal,-102.49,EUR
+03.01.2018,transfer,rent,-1490,EUR
+03.01.2018,debit,takeaway food,-15.5,EUR
+03.01.2018,debit,paypal,-17.68,EUR
+02.01.2018,debit,supermarket,-21.96,EUR
+02.01.2018,debit,gym,-15,EUR
+02.01.2018,debit,gas station,-27.05,EUR
+02.01.2018,debit,car insurance,-158.35,EUR
+02.01.2018,debit,taxes,-52.5,EUR
+02.01.2018,debit,loan,-149.1,EUR
+02.01.2018,debit,takeaway food,-20.9,EUR
+02.01.2018,debit,public transportation ,-87.2,EUR
+02.01.2018,debit,electricity,-40,EUR
+02.01.2018,debit,car rate,-350,EUR
+31.12.2017,interest/charges,interest,-3.13,EUR
+31.12.2017,interest/charges,interest,-0.8,EUR
+31.12.2017,debit,electronics store,-301.4,EUR
+31.12.2017,debit,paypal,-22.61,EUR
+31.12.2017,debit,takeaway food,-11,EUR
+31.12.2017,debit,paypal,-1.99,EUR
+31.12.2017,debit,takeaway food,-11.5,EUR
+30.12.2017,debit,gas station,-51.8,EUR
+30.12.2017,debit,takeaway food,-14.5,EUR
+30.12.2017,debit,takeaway food,-24.32,EUR
+30.12.2017,debit,spotify,-9.99,EUR
+30.12.2017,debit,telephone,-99.98,EUR
+27.12.2017,debit,supermarket,-94.68,EUR
+27.12.2017,debit,credit card,-229.19,EUR
+27.12.2017,debit,takeaway food,-17.9,EUR
+24.12.2017,debit,takeaway food,-14.99,EUR
+24.12.2017,debit,paypal,-2.7,EUR
+24.12.2017,debit,takeaway food,-11,EUR
+24.12.2017,debit,takeaway food,-21.8,EUR
+24.12.2017,debit,online learning,-71,EUR
+23.12.2017,credit,income,6360.54,EUR
+23.12.2017,debit,paypal,-2.7,EUR
+20.12.2017,debit,gas station,-44.98,EUR
+20.12.2017,debit,mcdonalds,-10.29,EUR
+20.12.2017,debit,takeaway food,-18.8,EUR
+19.12.2017,debit,coffee,-6,EUR
+18.12.2017,debit,mcdonalds,-8.99,EUR
+18.12.2017,debit,gas station,-2.89,EUR
+18.12.2017,debit,hardware store,-10.99,EUR
+17.12.2017,debit,gas station,-53.77,EUR
+17.12.2017,debit,takeaway food,-10.35,EUR
+17.12.2017,debit,takeaway food,-25.8,EUR
+17.12.2017,debit,takeaway food,-15,EUR
+17.12.2017,debit,takeaway food,-23.07,EUR
+17.12.2017,debit,online learning,-29.49,EUR
+17.12.2017,debit,takeaway food,-14.99,EUR
+17.12.2017,debit,hardware store,-32,EUR
+16.12.2017,transfer,money transfer,-252,EUR
+16.12.2017,debit,mcdonalds,-7.78,EUR
+16.12.2017,debit,takeaway food,-25.6,EUR
+16.12.2017,debit,internet,-39.9,EUR
+12.12.2017,debit,hardware store,-122.48,EUR
+12.12.2017,debit,gas station,-36.96,EUR
+11.12.2017,Cash Deposit/Withdrawal,cash withdrawal,-80,EUR
+11.12.2017,debit,clothing,-799,EUR
+11.12.2017,debit,netflix,-11.99,EUR
+10.12.2017,debit,gas station,-49.11,EUR
+10.12.2017,debit,takeaway food,-11,EUR
+10.12.2017,debit,takeaway food,-11.5,EUR
+10.12.2017,debit,paypal,-9.99,EUR
+10.12.2017,debit,car maintenance,-693.1,EUR
+10.12.2017,debit,takeaway food,-12.5,EUR
+10.12.2017,debit,takeaway food,-25.6,EUR
+09.12.2017,debit,gas station,-4,EUR
+09.12.2017,debit,gas station,-43.24,EUR
+09.12.2017,debit,mcdonalds,-6.69,EUR
+09.12.2017,Cash Deposit/Withdrawal,cash withdrawal,-80,EUR
+09.12.2017,debit,mcdonalds,-8.49,EUR
+09.12.2017,debit,mcdonalds,-8.99,EUR
+09.12.2017,debit,electronics store,-74.99,EUR
+06.12.2017,debit,takeaway food,-25.6,EUR
+06.12.2017,debit,paypal,-33.4,EUR
+05.12.2017,debit,gas station,-50.71,EUR
+04.12.2017,debit,mcdonalds,-8.49,EUR
+04.12.2017,debit,car insurance,-154.54,EUR
+04.12.2017,debit,takeaway food,-19.4,EUR
+03.12.2017,debit,takeaway food,-13.5,EUR
+03.12.2017,debit,takeaway food,-25.6,EUR
+03.12.2017,debit,paypal,-2.7,EUR
+03.12.2017,debit,paypal,-1.99,EUR
+03.12.2017,debit,takeaway food,-11,EUR
+03.12.2017,debit,paypal,-18.02,EUR
+03.12.2017,debit,car rate,-350,EUR
+03.12.2017,transfer,rent,-1490,EUR
+02.12.2017,debit,gas station,-52.89,EUR
+02.12.2017,Cash Deposit/Withdrawal,cash withdrawal,-800,EUR
+02.12.2017,debit,parking,-5.4,EUR
+02.12.2017,debit,gym,-15,EUR
+02.12.2017,debit,gas,-58,EUR
+02.12.2017,debit,loan,-149.1,EUR
+02.12.2017,debit,credit card,-309.87,EUR
+02.12.2017,debit,health insurance,-45,EUR
+02.12.2017,debit,gas station,-27.05,EUR
+02.12.2017,debit,health insurance,-390,EUR
+02.12.2017,debit,public transportation ,-85.1,EUR
+02.12.2017,debit,electricity,-40,EUR
+29.11.2017,interest/charges,interest,-0.8,EUR
+29.11.2017,transfer,money transfer,-141,EUR
+29.11.2017,debit,paypal,-22.61,EUR
+28.11.2017,debit,spotify,-9.99,EUR
+28.11.2017,debit,telephone,-99.98,EUR
+27.11.2017,debit,gas station,-39.51,EUR
+27.11.2017,debit,paypal,-21.81,EUR
+26.11.2017,credit,income,10657.04,EUR
+26.11.2017,debit,takeaway food,-15.5,EUR
+26.11.2017,debit,takeaway food,-15.5,EUR
+26.11.2017,debit,paypal,-99.99,EUR
+25.11.2017,debit,gas station,-41.5,EUR
+25.11.2017,debit,electronics store,-1778.9,EUR
+25.11.2017,debit,supermarket,-29.87,EUR
+25.11.2017,debit,online learning,-71,EUR
+25.11.2017,debit,takeaway food,-14.5,EUR
+21.11.2017,debit,gas station,-41.6,EUR
+20.11.2017,debit,paypal,-25,EUR
+19.11.2017,debit,gas station,-52.02,EUR
+19.11.2017,debit,paypal,-1.8,EUR
+19.11.2017,debit,paypal,-1.8,EUR
+19.11.2017,debit,takeaway food,-11.99,EUR
+19.11.2017,debit,takeaway food,-11,EUR
+19.11.2017,debit,takeaway food,-22.1,EUR
+18.11.2017,debit,gas station,-7.57,EUR
+18.11.2017,debit,supermarket,-11.12,EUR
+18.11.2017,Cash Deposit/Withdrawal,cash withdrawal,-60,EUR
+18.11.2017,debit,takeaway food,-15.5,EUR
+18.11.2017,debit,online learning,-29.49,EUR
+15.11.2017,Cash Deposit/Withdrawal,cash withdrawal,-60,EUR
+15.11.2017,debit,parking,-3.6,EUR
+15.11.2017,debit,takeaway food,-13.53,EUR
+15.11.2017,debit,internet,-39.9,EUR
+14.11.2017,debit,coffee,-10.07,EUR
+14.11.2017,debit,takeaway food,-11.35,EUR
+13.11.2017,debit,takeaway food,-11,EUR
+12.11.2017,debit,takeaway food,-11.99,EUR
+12.11.2017,debit,paypal,-9.99,EUR
+12.11.2017,debit,takeaway food,-20.9,EUR
+12.11.2017,debit,netflix,-11.99,EUR
+11.11.2017,Cash Deposit/Withdrawal,cash withdrawal,-84.99,EUR
+11.11.2017,credit,money transfer,50,EUR
+11.11.2017,debit,takeaway food,-11.99,EUR
+08.11.2017,debit,gas station,-49.72,EUR
+06.11.2017,debit,coffee,-13,EUR
+06.11.2017,debit,gas station,-7.37,EUR
+06.11.2017,debit,paypal,-67.46,EUR
+06.11.2017,debit,car insurance,-154.54,EUR
+05.11.2017,Cash Deposit/Withdrawal,cash withdrawal,-90,EUR
+05.11.2017,debit,gas station,-43.77,EUR
+05.11.2017,debit,takeaway food,-25.6,EUR
+05.11.2017,debit,book store,-7.99,EUR
+05.11.2017,debit,takeaway food,-11,EUR
+05.11.2017,debit,takeaway food,-21.2,EUR
+05.11.2017,debit,takeaway food,-20.08,EUR
+04.11.2017,credit,money transfer,900,EUR
+04.11.2017,debit,book store,-79.97,EUR
+04.11.2017,transfer,rent,-1490,EUR
+04.11.2017,debit,health insurance,-45,EUR
+04.11.2017,debit,gas,-58,EUR
+04.11.2017,debit,paypal,-17.78,EUR
+04.11.2017,debit,gas station,-27.05,EUR
+04.11.2017,debit,health insurance,-390,EUR
+01.11.2017,debit,clothing,-9.99,EUR
+01.11.2017,debit,electricity,-40,EUR
+01.11.2017,debit,loan,-149.1,EUR
+01.11.2017,debit,gym,-15,EUR
+01.11.2017,debit,public transportation ,-85.1,EUR
+01.11.2017,debit,car rate,-350,EUR
+31.10.2017,interest/charges,interest,-0.8,EUR
+31.10.2017,Cash Deposit/Withdrawal,cash withdrawal,-350,EUR
+31.10.2017,debit,gas station,-37.05,EUR
+31.10.2017,debit,parking,-3.6,EUR
+31.10.2017,debit,hardware store,-382.85,EUR
+31.10.2017,debit,paypal,-1.99,EUR
+30.10.2017,debit,mcdonalds,-7.18,EUR
+30.10.2017,debit,fine,-29,EUR
+30.10.2017,debit,travel insurance,-42,EUR
+30.10.2017,debit,travel insurance,-835,EUR
+29.10.2017,credit,money transfer,19,EUR
+29.10.2017,debit,parking,-6,EUR
+29.10.2017,debit,gas station,-55.4,EUR
+29.10.2017,debit,takeaway food,-15.5,EUR
+29.10.2017,debit,paypal,-3.75,EUR
+29.10.2017,debit,takeaway food,-16.49,EUR
+29.10.2017,debit,spotify,-9.99,EUR
+29.10.2017,debit,takeaway food,-11.35,EUR
+28.10.2017,debit,clothing,-150.35,EUR
+28.10.2017,credit,income,5781.69,EUR
+28.10.2017,debit,credit card,-346.31,EUR
+28.10.2017,debit,telephone,-99.98,EUR
+25.10.2017,debit,supermarket,-23.99,EUR
+25.10.2017,debit,paypal,-39.2,EUR
+24.10.2017,debit,gas station,-51.82,EUR
+24.10.2017,debit,online learning,-71,EUR
+23.10.2017,debit,gas station,-9.36,EUR
+22.10.2017,debit,money withdrawal,-139.91,EUR
+22.10.2017,debit,takeaway food,-10.34,EUR
+22.10.2017,debit,takeaway food,-11.5,EUR
+22.10.2017,debit,takeaway food,-20.7,EUR
